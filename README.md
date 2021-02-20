@@ -27,3 +27,25 @@
 4. Line plot
 5. Box and whisker plot
 6. Violin plot
+
+### Functions
+
+### Helpful links
+
+## Statistics
+
+### Descriptive statistics
+1. Mean
+2. Median
+3. Mode
+4. Standard deviation
+5. Variance
+6. Range
+
+### Measures of Significance
+1. P-value
+2. F-value
+3. Effect size
+4. Standard deviation
+5. Standard error
+6. Confidence intervals
