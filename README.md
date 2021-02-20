@@ -34,6 +34,12 @@
 
 ## Statistics
 
+### Types of data
+1. Continual
+2. Discrete
+3. Nomical
+4. Ordinal
+
 ### Descriptive statistics
 1. Mean
 2. Median
