@@ -49,3 +49,9 @@
 4. Standard deviation
 5. Standard error
 6. Confidence intervals
+
+### Things to think about
+1. Parametric vs. non-parametric
+2. What test do I use?
+3. Decision errors
+4. Null hypothesis
